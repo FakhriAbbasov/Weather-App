@@ -7,7 +7,7 @@ The web app has a search bar implemented by AsyncPaginate which dynamically fetc
 Extra details of the forecast can be accessed by pressing on the AccordionButtons. 
 ![](screenshots/weatherScreenshot3.png)
 
-The colors of the shadow and the buttons change based on weather.
+The colors of the shadow and the buttons change based on the weather.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
