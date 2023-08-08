@@ -1,9 +1,9 @@
 # Weather App
-![](.../screenshots/weatherScreenshot1.png)
+![](screenshots/weatherScreenshot1.png)
 The web app has a search bar implemented by AsyncPaginate which dynamically fetches search results and gives suggestions. Besides real-time data the website shows a 7 day forecast. 
-![](.../screenshots/weatherScreenshot2.png)
+![](screenshots/weatherScreenshot2.png)
 Extra details of the forecast can be accessed by pressing on the AccordionButtons. 
-![](.../screenshots/weatherScreenshot3.png)
+![](screenshots/weatherScreenshot3.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
